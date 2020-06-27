@@ -2,5 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home2/stephe13/public_html
-    - echo pwd
-    - /bin/cp -r /build/* $DEPLOYPATH
+/bin/cp -R build $DEPLOYPATH
