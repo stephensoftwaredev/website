@@ -2,4 +2,5 @@
 deployment:
   tasks:
   - export DEPLOYPATH=/home2/stephe13/public_html
-  - /bin/cp -R build $DEPLOYPATH
+  - export BUILDPATH=/home2/stephe13/repositories/website/build
+  - /bin/cp -R $BUILDPATH $DEPLOYPATH
