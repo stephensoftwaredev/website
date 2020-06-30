@@ -8,19 +8,26 @@
     "email": "Stephenhardiman96@gmail.com",
     "phone": "61 429 783 830",
     "CV":"https://www.www.stephenhardiman.com/#about",
-    "address":{
+    "address":{"name":"linkedin",
+      "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+      "className":"fa fa-linkedin"
     },
-    "website": "www.x-aero.com.au",
+    "website": "http://www.timbakerdev.com",
     "resumedownload":  "<a href=Stephen_Hardiman_CV.pdf>Download Resume</a>",
     "social":[
 
     
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/stephen-hardiman/",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
+      },
+    
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
       }
-      
     ]
   },
   "portfolio":{
