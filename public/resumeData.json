@@ -45,27 +45,27 @@
     "projects": [
       {
         "title":"X-Aero",
-        "category":"MMy Startup EVTOL Company which design and Manufacture Australia's Largest Unmanned Aircraft",
+        "category":"My Startup EVTOL Company which design and Manufacture Australia's Largest Unmanned Aircraft",
         "image":"Asset1.png",
         "url":"https://www.x-aero.com.au/design"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Article on X-Aero's work",
+        "category":"Interview With RMIT on X-AERO",
+        "image":"hovercraft_masthead.jpg",
+        "url":"https://www.rmit.edu.au/news/all-news/2019/feb/young-engineers-build-ride-on-drones"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"ThingWorx Augmented Reality Hackathon ",
+        "category":"Partipated and won the Thingworx Augmented Reality Hackathon for Physical Configuration Audits ",
+        "image":"hackathon.jpg",
+        "url":"https://novasystems.com/news/team-supported-by-nova-systems-wins-rmit-hackathon-2018/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Real Time Working",
+        "category":"STEM Educational organization which I Volunteer for",
+        "image":"organization",
+        "url":"https://rtlaustralia.com/2019/09/08/steve-hardiman-director-and-co-founder-of-xaero-shares-their-working-prototype-of-a-drone-they-will-take-to-california-early-next-year-d95/"
       },
       {
         "title":"Smirkspace",
@@ -78,12 +78,12 @@
   "resume":{
     "education":[
       {
-        "school":"RMIT",
+        "school":"Royal Melbourne Institute of Technology",
         "degree":"Bachelor of Engineering (Aerospace Engineering) (Honours)",
         "graduated":"2019"
       },
       {
-        "school":"Brighton Grammar",
+        "school":"Brighton Grammar School",
         "graduated":"2009-2014"
       }
     ],
