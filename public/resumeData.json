@@ -8,8 +8,9 @@
     "email": "Stephenhardiman96@gmail.com",
     "phone": "61 429 783 830",
     "CV":"https://www.www.stephenhardiman.com/#about",
-    "address":{"name":"linkedin",
-      "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+    "address":{
+      "name":"linkedin",
+      "url":"https://www.linkedin.com/in/stephen-hardiman/",
       "className":"fa fa-linkedin"
     },
     "website": "http://www.timbakerdev.com",
@@ -19,7 +20,7 @@
     
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/stephen-hardiman/",
         "className":"fa fa-linkedin"
       },
     
