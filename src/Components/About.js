@@ -14,7 +14,6 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
-      var socaial = this.props.data.socaial
     }
 
     return (
@@ -34,7 +33,6 @@ class About extends Component {
 						   <span>{name}</span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
-                     <span>{social}</span>
 					   </p>
                </div>
                <div className="columns download">
