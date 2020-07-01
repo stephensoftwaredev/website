@@ -43,15 +43,6 @@ class About extends Component {
             </div>
          </div>
       </div>
-      <div className="row">
-        <div className="twelve columns">
-           <ul className="social-links">
-              {networks}
-           </ul>
-
-        </div>
-        </div>
-      
 
    </section>
     );
