@@ -17,13 +17,6 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
-           <h4>Contact Me</h4>
-					   <p className="address">
-						   {name}<br />
-						   <span>{phone}</span>
-                     <span>{email}</span>
-					   </p>
-
 
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>
