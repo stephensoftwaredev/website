@@ -37,9 +37,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                  <form method="get" action="CV.pdf">
-   <button type="submit">Download CV</button>
-</form>
+               <a href={resumeDownload} className="button"><i className="CV.pdf"></i>Download Resume</a>
                   </p>
                </div>
             </div>
