@@ -7,14 +7,13 @@
     "contactmessage":"Please Contact For Any Questions.",
     "email": "Stephenhardiman96@gmail.com",
     "phone": "61 429 783 830",
-    "CV":"https://www.www.stephenhardiman.com/#about",
     "address":{
       "name":"linkedin",
       "url":"https://www.linkedin.com/in/stephen-hardiman/",
       "className":"fa fa-linkedin"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":  "<a href=Stephen_Hardiman_CV.pdf>Download Resume</a>",
+    "resumedownload":  "CV.pdf",
     "social":[
 
     
@@ -22,13 +21,8 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/stephen-hardiman/",
         "className":"fa fa-linkedin"
-      },
-    
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
+    
     ]
   },
   "portfolio":{
