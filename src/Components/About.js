@@ -33,11 +33,12 @@ class About extends Component {
 						   <span>{name}</span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
+                     <span>{social}</span>
 					   </p>
                </div>
                <div className="columns download">
                   <p>
-               <a href={resumeDownload} className="button"><i className="CV.pdf"></i>Download Resume</a>
+               <a href={resumeDownload} className="button"><i className="CV.pdf"></i>Download CV</a>
                   </p>
                </div>
             </div>
