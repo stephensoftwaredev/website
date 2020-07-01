@@ -17,6 +17,12 @@ class Footer extends Component {
            <ul className="social-links">
               {networks}
            </ul>
+           <h4>Contact Me</h4>
+					   <p className="address">
+						   {name}<br />
+						   <span>{phone}</span>
+                     <span>{email}</span>
+					   </p>
 
 
         </div>
