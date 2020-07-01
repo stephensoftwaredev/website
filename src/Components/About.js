@@ -13,7 +13,7 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = "s3://pdfbucketsstephen/CV.pdf/" + this.props.data.resumedownload;
+      var resumeDownload = "https://pdfbucketsstephen.s3-ap-southeast-2.amazonaws.com/CV.pdf" + this.props.data.resumedownload;
     }
 
     return (
