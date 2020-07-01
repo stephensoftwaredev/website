@@ -84,11 +84,6 @@ class Contact extends Component {
 						   <span>{phone}</span>
                      <span>{email}</span>
 					   </p>
-                 
-                  <ul className="social-links">
-              {networks}
-              
-           </ul>
 				   </div>
 
                <div className="widget widget_tweets">
