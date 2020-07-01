@@ -22,13 +22,9 @@
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/stephen-hardiman/",
         "className":"fa fa-linkedin"
-      },
-    
-      {
-        "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-github"
       }
+  
+      
     ]
   },
   "portfolio":{
