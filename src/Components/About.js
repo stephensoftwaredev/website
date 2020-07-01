@@ -31,16 +31,15 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
                </div>
                <div className="columns download">
                   <p>
-                  <a href="Stephen_Hardiman_CV.pdf">Download Resume</a>
+                  <form method="get" action="CV.pdf">
+   <button type="submit">Download CV</button>
+</form>
                   </p>
                </div>
             </div>
